@@ -1,15 +1,15 @@
 {
-  "name": "test",
-  "description": "Stealaalql",
+  "name": "Revenge Fake Mute",
+  "description": "Fake mute/deafen for Revenge mobile.",
   "authors": [
     {
       "name": "alp",
       "id": "1359596965905567998"
     }
   ],
-  "main": "index.tsx",
+  "main": "index.js",
   "vendetta": {
     "icon": "ic_emoji_24px"
-  },
   }
 }
+
