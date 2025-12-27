@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "description": "Stealaalql",
+  "authors": [
+    {
+      "name": "alp",
+      "id": "1359596965905567998"
+    }
+  ],
+  "main": "index.tsx",
+  "vendetta": {
+    "icon": "ic_emoji_24px"
+  },
+  }
+}
